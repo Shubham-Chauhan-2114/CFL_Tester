@@ -25,9 +25,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/grammar.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-1.11.1.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/grammar.js",
+              "src/assets/js/earley.js",
+              "src/assets/js/grammar_view.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -87,9 +95,17 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "src/assets/css/bootstrap.min.css",
+              "src/assets/css/grammar.css"
             ],
-            "scripts": []
+            "scripts": [
+              "src/assets/js/jquery-1.11.1.min.js",
+              "src/assets/js/bootstrap.min.js",
+              "src/assets/js/grammar.js",
+              "src/assets/js/earley.js",
+              "src/assets/js/grammar_view.js"
+            ]
           }
         }
       }
